@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="test"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/J2SE-1.5">
+		<attributes>
+			<attribute name="owner.project.facets" value="java"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="F:/springjars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/hibernate-validator-4.2.0.Final.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/javax.servlet-api-3.0.1.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/jsch-0.1.51.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/jstl-1.2.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/junit3.8.1.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/spring-aspects-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/spring-beans-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/spring-context-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/spring-context-support-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/spring-core-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/spring-expression-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/spring-web-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/spring-webmvc-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/validation-api-1.0.0.GA.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/tiles/commons-beanutils-1.8.3.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/tiles/commons-digester-2.1.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/tiles/tiles-api-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/tiles/tiles-core-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/tiles/tiles-jsp-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/tiles/tiles-servlet-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/tiles/tiles-template-2.2.1.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/spring-jdbc-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/spring-tx-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/mysql-connector-java-5.1.6.jar"/>
+	<classpathentry kind="lib" path="F:/gson-2.2.4.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/security/spring-security-config-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/security/spring-security-core-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/security/spring-security-web-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/security/spring-aop-3.2.1.RELEASE.jar"/>
+	<classpathentry kind="lib" path="F:/springjars/security/com.springsource.org.aopalliance-1.0.0.jar"/>
+	<classpathentry kind="lib" path="F:/jquery-1.9.1.jar"/>
+	<classpathentry kind="output" path="build/classes"/>
+</classpath>
